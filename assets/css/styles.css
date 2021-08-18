@@ -45,6 +45,14 @@ body {
     }
 }
 
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.63);
+}
+
+
 .text-header {
     color: white;
     font-size: 20px;
