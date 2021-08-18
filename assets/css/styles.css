@@ -37,8 +37,14 @@ body {
 .header-title{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif!important;
     font-size: 100px!important;
-
 }
+
+@media (max-width:768px) {
+    .header-title{
+        font-size: 70px!important;
+    }
+}
+
 .text-header {
     color: white;
     font-size: 20px;
